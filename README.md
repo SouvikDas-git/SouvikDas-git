@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 <br>
 
 <!-- <img src="cover.jpg"> -->
-<img src="cover.svg">
+<img src="cover.svg" width="100%">
 
 <br>
 <br>
