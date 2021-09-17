@@ -109,7 +109,6 @@ const Souvik = {
 </a>
 
 <br>
-<br>
 
 <!-- ### Libraries and frameworks : -->
 <h3 style="border-left: 3px solid gray; padding-left: 10px;"> Libraries and frameworks : </h3>
@@ -118,7 +117,6 @@ const Souvik = {
 
 <img href="https://getbootstrap.com/" alt="Bootstrap" height="32px" src="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-32x32.png" style="margin: 5px">
 
-<br>
 <br>
 
 <!-- ### Softwares and Tools : -->
