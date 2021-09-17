@@ -113,9 +113,13 @@ const Souvik = {
 <!-- ### Libraries and frameworks : -->
 <h3 style="border-left: 3px solid gray; padding-left: 10px;"> Libraries and frameworks : </h3>
 
-<img href="https://jquery.com/" alt="jquery" height="32px" src="https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico" style="margin: 5px">
+<a href="https://jquery.com/" target="_blank" style="margin: 5px">
+<img alt="jquery" height="32px" src="https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico">
+</a>
 
-<img href="https://getbootstrap.com/" alt="Bootstrap" height="32px" src="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-32x32.png" style="margin: 5px">
+<a href="https://getbootstrap.com/" target="_blank" style="margin: 5px">
+<img alt="Bootstrap" height="32px" src="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-32x32.png">
+</a>
 
 <br>
 
@@ -124,9 +128,13 @@ const Souvik = {
 
 <!-- <img href="https://visualstudio.microsoft.com/" alt="Visual Studio IDE" height="32px" src="vs_icon.svg"  style="margin: 5px"> -->
 
-<img href="https://code.visualstudio.com/" alt="Visual Studio Code" height="32px" src="vscode_icon.svg"  style="margin: 5px">
+<a href="https://code.visualstudio.com/" target="_blank" style="margin: 5px">
+<img alt="Visual Studio Code" height="32px" src="vscode_icon.svg">
+</a>
 
-<img href="https://www.google.com/chrome/fast-and-secure/" alt="Google Chrome" height="32px" src="chrome_icon.svg"  style="margin: 5px">
+<a href="https://www.google.com/chrome/fast-and-secure/" target="_blank" style="margin: 5px">
+<img alt="Google Chrome" height="32px" src="chrome_icon.svg">
+</a>
 
 <br>
 <br>
