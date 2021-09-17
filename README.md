@@ -10,8 +10,6 @@ Here are some ideas to get you started: -->
 <!-- <img src="cover.jpg"> -->
 <img src="cover.svg" width="100%">
 
-<br>
-<br>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
