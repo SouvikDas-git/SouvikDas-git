@@ -1,6 +1,6 @@
-<!-- ### Hi there 👋 Welcome to my GitHub Account! I'm Souvik Das, full stack developer.... -->
+> ### Hi there 👋 Welcome to my GitHub Account! I'm Souvik Das, full stack developer....
 
-<h3 style="border-left: 3px solid gray; padding-left: 10px;"> Hi there 👋 Welcome to my GitHub Account! I'm Souvik Das, full stack developer.... </h3>
+<!-- <h3 style="border-left: 3px solid gray; padding-left: 10px;"> Hi there 👋 Welcome to my GitHub Account! I'm Souvik Das, full stack developer.... </h3> -->
 
 <!-- **SouvikDas-git/SouvikDas-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,9 +23,10 @@ Here are some ideas to get you started: -->
 
 <br>
 
-<!-- ### aboutMe.js -->
-<h3 style="border-left: 3px solid gray; padding-left: 10px;"> AboutMe.js </h3>
-<br>
+> ### aboutMe.js
+
+<!-- <h3 style="border-left: 3px solid gray; padding-left: 10px;"> AboutMe.js </h3>
+<br> -->
 
 ```javascript
 const Souvik = {
@@ -45,7 +46,6 @@ const Souvik = {
 
 <!-- <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png"> -->
 
-
 <!-- ## Heyyo, I'm <a href="https://github.com/SouvikDas-git" target="_blank">Aakarsh</a>!
 (Use dark theme to find my socials ;) -->
 
@@ -64,8 +64,9 @@ const Souvik = {
 
 <br>
 
-<!-- ### Languages : -->
-<h3 style="border-left: 3px solid gray; padding-left: 10px;"> Languages : </h3>
+> ### Languages :
+
+<!-- <h3 style="border-left: 3px solid gray; padding-left: 10px;"> Languages : </h3> -->
 
 <a href="https://www.w3.org/html/" target="_blank" style="margin: 5px">
 <img alt="HTML5" height="32px" src="html_icon.svg">
@@ -109,8 +110,9 @@ const Souvik = {
 
 <br>
 
-<!-- ### Libraries and frameworks : -->
-<h3 style="border-left: 3px solid gray; padding-left: 10px;"> Libraries and frameworks : </h3>
+> ### Libraries and frameworks :
+
+<!-- <h3 style="border-left: 3px solid gray; padding-left: 10px;"> Libraries and frameworks : </h3> -->
 
 <a href="https://jquery.com/" target="_blank" style="margin: 5px">
 <img alt="jquery" height="32px" src="https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico">
@@ -122,8 +124,9 @@ const Souvik = {
 
 <br>
 
-<!-- ### Softwares and Tools : -->
-<h3 style="border-left: 3px solid gray; padding-left: 10px;"> Softwares and Tools : </h3>
+> ### Softwares and Tools :
+
+<!-- <h3 style="border-left: 3px solid gray; padding-left: 10px;"> Softwares and Tools : </h3> -->
 
 <!-- <img href="https://visualstudio.microsoft.com/" alt="Visual Studio IDE" height="32px" src="vs_icon.svg"  style="margin: 5px"> -->
 
@@ -138,9 +141,10 @@ const Souvik = {
 <br>
 <br>
 
-<!-- ### Now Playing 🎧 -->
+### Now Playing 🎧
 
-<!-- [![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9) -->
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/drqq0s1nekazb03qwe9klpi0f)
+
 <!-- <br/> -->
 
 ---
@@ -148,5 +152,7 @@ const Souvik = {
 <br>
 
 [![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=SouvikDas-git&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=F28C0F&text_color=969696&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SouvikDas-git&layout=compact&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
