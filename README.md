@@ -1,9 +1,10 @@
-
 ### Hi there 👋 Welcome to my GitHub Account! I'm Souvik Das, full stack developer....
 
 <!-- **SouvikDas-git/SouvikDas-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+
+<img src="cover.jpg">
 
 <br>
 
@@ -18,7 +19,6 @@ Here are some ideas to get you started: -->
 
 <br>
 
-
 ### aboutMe.js
 
 ```javascript
@@ -32,11 +32,10 @@ const Souvik = {
         },
         backEnd: {
             js: ["vue", "node"]
-        }        
+        }
     }
 };
 ```
-
 
 <!-- <img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png"> -->
 <!-- <br/> -->
@@ -72,33 +71,36 @@ const Souvik = {
 ### Languages and Tools:
 
 <a href="https://www.w3.org/html/" target="_blank">
-<img align="left" alt="HTML5" width="32px" src="html_icon.svg">
+<img alt="HTML5" width="32px" src="html_icon.svg">
 </a>
 
 <a href="https://www.w3schools.com/css/" target="_blank">
-<img align="left" alt="CSS3" width="32px" src="css_icon.svg">
+<img alt="CSS3" width="32px" src="css_icon.svg">
 </a>
 
 <a href="https://www.python.org" target="_blank">
-<img align="left" alt="Python" width="32px" src="javascript_icon.svg">
+<img alt="Python" width="32px" src="javascript_icon.svg">
 </a>
 
-<a href="https://www.python.org" target="_blank">
-<img align="left" alt="Python" width="32px" src="python_icon.svg">
+<a href="https://www.python.org/" target="_blank">
+<img alt="Python" width="32px" src="python_icon.svg">
 </a>
 
 <a href="https://www.cprogramming.com/" target="_blank">
-<img align="left" alt="C" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/>
+<img alt="C" width="32px" src="c_icon.svg">
 </a>
 
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img align="left" alt="C++" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c++.png"/>
+<a href="https://www.cprogramming.com/" target="_blank">
+<img alt="C++" width="32px" src="cpp_icon.svg">
+</a>
+<a href="https://github.com/" target="_blank">
+<!-- <img alt="GitHub" width="32px" src="github_icon.svg"> -->
+<!-- <img alt="GitHub" width="32px" src="github_icon.png"> -->
+<img alt="GitHub" width="48px" src="octocat.svg">
 </a>
 
-<img align="left" alt="GitHub" width="32px" src="github_icon.svg">
-
-<br />
-<br />
+<br>
+<br>
 
 ### Softwares:
 
@@ -108,11 +110,8 @@ const Souvik = {
 <a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
 <a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
 
-
 <br>
 <br>
-
-
 
 <!-- ### Now Playing 🎧 -->
 
@@ -120,6 +119,7 @@ const Souvik = {
 <!-- <br/> -->
 
 ---
+
 <br>
 
 [![Souvik's github stats](https://github-readme-stats.vercel.app/api?username=SouvikDas-git&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFFFFF&icon_color=F28C0F&text_color=969696&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
