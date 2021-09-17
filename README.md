@@ -1,11 +1,15 @@
-### Hi there 👋 Welcome to my GitHub Account! I'm Souvik Das, full stack developer....
+<!-- ### Hi there 👋 Welcome to my GitHub Account! I'm Souvik Das, full stack developer.... -->
+
+<h3 style="border-left: 3px solid gray; padding-left: 10px;"> Hi there 👋 Welcome to my GitHub Account! I'm Souvik Das, full stack developer.... </h3>
 
 <!-- **SouvikDas-git/SouvikDas-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+<br>
 
 <img src="cover.jpg">
 
+<br>
 <br>
 
 - 🔭 I’m currently working on ...
@@ -19,7 +23,9 @@ Here are some ideas to get you started: -->
 
 <br>
 
-### aboutMe.js
+<!-- ### aboutMe.js -->
+<h3 style="border-left: 3px solid gray; padding-left: 10px;"> AboutMe.js </h3>
+<br>
 
 ```javascript
 const Souvik = {
@@ -57,58 +63,72 @@ const Souvik = {
 <br />
 <br /> -->
 
-<!-- ### 📕 Latest Blog Post -->
-
-<!-- BLOG-POST-LIST:START -->
-<!-- - [A dot cost me 6,000 rupees!](https://aakarshbiju.medium.com/a-dot-cost-me-6-000-rupees-3f519595f86f?source=rss-f82fcec8502a------2) -->
-<!-- - [I created 3D art daily for 50 days!](https://medium.com/creativcuckoo/i-created-3d-art-daily-for-50-days-bbea3ec4a01f?source=rss-f82fcec8502a------2) -->
-<!-- - [Top free fonts for headings!](https://medium.com/creativcuckoo/top-free-fonts-for-headings-40afb244181?source=rss-f82fcec8502a------2) -->
-<!-- - [Buttons — Rounded Corners or Sharp?](https://medium.com/creativcuckoo/buttons-rounded-corners-or-sharp-29109966a63c?source=rss-f82fcec8502a------2) -->
-<!-- BLOG-POST-LIST:END -->
-
 <br>
 
-### Languages and Tools:
+<!-- ### Languages : -->
+<h3 style="border-left: 3px solid gray; padding-left: 10px;"> Languages : </h3>
 
-<a href="https://www.w3.org/html/" target="_blank">
-<img alt="HTML5" width="32px" src="html_icon.svg">
+<a href="https://www.w3.org/html/" target="_blank" style="margin: 5px">
+<img alt="HTML5" height="32px" src="html_icon.svg">
 </a>
 
-<a href="https://www.w3schools.com/css/" target="_blank">
-<img alt="CSS3" width="32px" src="css_icon.svg">
+<a href="https://www.w3schools.com/css/" target="_blank" style="margin: 5px">
+<img alt="CSS3" height="32px" src="css_icon.svg">
 </a>
 
-<a href="https://www.python.org" target="_blank">
-<img alt="javascript" width="32px" src="js_icon.svg">
+<a href="https://www.javascript.com/" target="_blank" style="margin: 5px">
+<img alt="javascript" height="32px" src="js_icon.svg">
 </a>
 
 <a href="https://www.python.org/" target="_blank">
-<img alt="Python" width="32px" src="python_icon.svg">
+<img alt="Python" height="32px" src="python_icon.svg" style="margin: 5px">
 </a>
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img alt="C" width="32px" src="c_icon.svg">
+<a href="https://www.cprogramming.com/" target="_blank" style="margin: 5px">
+<img alt="C" height="32px" src="c_icon.svg">
 </a>
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img alt="C++" width="32px" src="cpp_icon.svg">
+<a href="https://www.cprogramming.com/" target="_blank" style="margin: 5px">
+<img alt="C++" height="32px" src="cpp_icon.svg">
 </a>
-<a href="https://github.com/" target="_blank">
-<!-- <img alt="GitHub" width="32px" src="github_icon.svg"> -->
-<!-- <img alt="GitHub" width="32px" src="github_icon.png"> -->
-<img alt="GitHub" width="48px" src="octocat.svg">
+
+<a href="https://www.php.net/" target="_blank" style="margin: 5px">
+<img alt="php" height="32px" src="php_icon.svg">
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" style="margin: 5px">
+<img alt="mysql" height="32px" src="mysql_icon.svg">
+</a>
+
+<a href="https://www.ruby-lang.org/en/" target="_blank" style="margin: 5px">
+<img alt="ruby" height="32px" src="ruby_icon.svg">
+</a>
+
+<a href="https://developer.apple.com/swift/" target="_blank" style="margin: 5px">
+<img alt="swift" height="32px" src="swift_icon.svg">
 </a>
 
 <br>
 <br>
 
-### Softwares:
+<!-- ### Libraries and frameworks : -->
+<h3 style="border-left: 3px solid gray; padding-left: 10px;"> Libraries and frameworks : </h3>
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<a href="https://www.adobe.com/products/xd.html" target="_blank"> <img align="left" alt="XD" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/adobexd.png?raw=true"/> </a> 
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img align="left" alt="Illustrator" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/illustrator.png?raw=true"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/photoshop.png?raw=true"/> </a>
-<a href="https://www.blender.org" target="_blank"> <img align="left" alt="Photoshop" width="26px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/blender.png?raw=true"/> </a>
+<img href="https://jquery.com/" alt="jquery" height="32px" src="https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico" style="margin: 5px">
+
+<img href="https://getbootstrap.com/" alt="Bootstrap" height="32px" src="https://getbootstrap.com/docs/5.1/assets/img/favicons/favicon-32x32.png" style="margin: 5px">
+
+<br>
+<br>
+
+<!-- ### Softwares and Tools : -->
+<h3 style="border-left: 3px solid gray; padding-left: 10px;"> Softwares and Tools : </h3>
+
+<!-- <img href="https://visualstudio.microsoft.com/" alt="Visual Studio IDE" height="32px" src="vs_icon.svg"  style="margin: 5px"> -->
+
+<img href="https://code.visualstudio.com/" alt="Visual Studio Code" height="32px" src="vscode_icon.svg"  style="margin: 5px">
+
+<img href="https://www.google.com/chrome/fast-and-secure/" alt="Google Chrome" height="32px" src="chrome_icon.svg"  style="margin: 5px">
 
 <br>
 <br>
