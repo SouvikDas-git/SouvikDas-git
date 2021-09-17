@@ -79,7 +79,7 @@ const Souvik = {
 </a>
 
 <a href="https://www.python.org" target="_blank">
-<img alt="Python" width="32px" src="js_icon.svg">
+<img alt="javascript" width="32px" src="js_icon.svg">
 </a>
 
 <a href="https://www.python.org/" target="_blank">
