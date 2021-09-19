@@ -39,11 +39,12 @@ const Souvik = {
     }
 };
 ```
-
+<br>
 <br>
 
 > ### Languages :
-
+<br>
+&nbsp;
 <a href="https://www.w3.org/html/" target="_blank">
 <img alt="HTML5" height="32px" src="html_icon.svg">
 </a>
@@ -85,9 +86,11 @@ const Souvik = {
 </a>
 
 <br>
+<br>
 
 > ### Libraries and frameworks :
-
+<br>
+&nbsp;
 <a href="https://jquery.com/" target="_blank">
 <img alt="jquery" height="32px" src="https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico">
 </a>
@@ -97,9 +100,11 @@ const Souvik = {
 </a>
 
 <br>
+<br>
 
 > ### Softwares and Tools :
-
+<br>
+&nbsp;
 <a href="https://code.visualstudio.com/" target="_blank">
 <img alt="Visual Studio Code" height="32px" src="vscode_icon.svg">
 </a>
