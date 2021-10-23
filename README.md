@@ -12,6 +12,7 @@ Here are some ideas to get you started: -->
 
 <!-- - 🔭 I’m currently working on ... some Open Source Projects -->
 - 🌱 I’m currently learning ... PWA (Progressive Web App)
+- 🤔 I’m Improving my ... 🟡 JavaScript Skills
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
